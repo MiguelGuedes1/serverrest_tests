@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="0.544" tests="2" failures="0">
+  <testsuite name="Root Suite" timestamp="2026-04-18T14:24:39" tests="1" file="cypress\e2e\users.cy.js" time="0.000" failures="0">
+    <testcase name="ST-4 - [Negativo] Tentar cadastrar usuário com email já existente" time="0.329" classname="ST-4 - [Negativo] Tentar cadastrar usuário com email já existente">
+    </testcase>
+  </testsuite>
+  <testsuite name="Funcionalidade: Usuários" timestamp="2026-04-18T14:24:39" tests="1" time="0.206" failures="0">
+    <testcase name="Funcionalidade: Usuários ST-1 - [API] Create User - ServeRest" time="0.193" classname="ST-1 - [API] Create User - ServeRest">
+    </testcase>
+  </testsuite>
+</testsuites>
